@@ -1,0 +1,10 @@
+{
+  "HELPYOURBRO-PRAYING_FOUR_YOU.title": "PrayingFourYou",
+  "HELPYOURBRO-PRAYING_FOUR_YOU.description": "Pray for your friend. They gain [gold]{RegenPower:diff()}[/gold] Regen.",
+  "HELPYOURBRO-MY_STRENGTH_YOUR_STRENGTH.title": "My Strength, Your Strength",
+  "HELPYOURBRO-MY_STRENGTH_YOUR_STRENGTH.description": "Lose 1 {StrengthPower:diff()}, give 1 {StrengthPower:diff()} to an ally.",
+  "HELPYOURBRO-KA_CHOW.title" : "Ka-chow",
+  "HELPYOURBRO-KA_CHOW.description" : "Give an ally or yourself {DexterityPower:diff()}.",
+  "HELPYOURBRO-I_GOTCHU.title" : "I gotchu bro.",
+  "HELPYOURBRO-I_GOTCHU.description" : "Give your bro 10 block."
+} 
